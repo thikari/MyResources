@@ -31,7 +31,6 @@
 |[Remote ok](https://remoteok.io/)|
 |[Outsourcely](https://www.outsourcely.com/)|
 |[Skip the Drive](https://www.skipthedrive.com/)|
-|[Fiverr](https://www.fiverr.com/)|
 |[We work remotely](https://weworkremotely.com/)|
 |[Flex Jobs](https://www.flexjobs.com/)|
 |[Virtual Vocations](https://www.virtualvocations.com/)|
@@ -43,19 +42,13 @@
 |[GitHub jobs](https://jobs.github.com/positions?description=&location=remote)|
 |[Jobscribe](https://jobscribe.co.nz)|
 |[DailyRemote](https://dailyremote.com)|
-|[Jobspresso](https://jobspresso.co/)|
-|[Remote.Co?](https://remote.co/)|
 |[RemoteHub](https://remotehub.io)|
-|[RemoteOK](https://remoteok.io)|
 |[Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)|
-|[Remotive](http://jobs.remotive.io/)|
 |[StackOverflow](https://stackoverflow.com/jobs?allowsremote=True)|
 |[Transformity](https://www.transformify.org)|
 |[Who is Hiring?](https://whoishiring.io)|
 |[WorkRemotely](https://workremotely.io/)|
 |[Workfrom](http://www.workfrom.co)|
-|[Working Nomads](https://www.workingnomads.co/jobs)|
-|[Frontenddeveloperjob](http://frontenddeveloperjob.com/)|
 |[Weworkremotely](https://weworkremotely.com)|
 |[Doméstika](https://www.domestika.org/es/jobs/where/remote)|
 |[Frontenddeveloperjob.com](https://www.google.es/search?q=site:frontenddeveloperjob.com+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwims5PBoI_cAhVLthQKHZy_BzAQpwUIIA&biw=1920&bih=947)|
@@ -64,7 +57,6 @@
 |[Lever.co](https://www.google.es/search?q=site:lever.co+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwiPnJONoY_cAhUHnRQKHd6GBdcQpwUIIA&biw=1920&bih=947)|
 |[Nodesk.co](https://www.google.es/search?q=site:nodesk.co+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwiVobiMoI_cAhWLuBQKHbgNBtsQpwUIIA&biw=1920&bih=947)|
 |[Recruiterbox.com](https://www.google.es/search?q=site:recruiterbox.com+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwjkwNqxoI_cAhWF7xQKHbVzDQIQpwUIIA&biw=1920&bih=947)|
-|[Remotive.io](https://www.google.es/search?q=site:remotive.io+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:m&sa=X&ved=0ahUKEwjT8P2LovPaAhULuRQKHf1MAqEQpwUIIA&biw=1920&bih=949)|
 |[Smartrecruiters.com](https://www.google.es/search?q=site:.smartrecruiters.com+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwjHhtivkvPaAhWB1xQKHYcjD24QpwUIIA&biw=1920&bih=949)|
 |[Workable.com](https://www.google.es/search?q=site:workable.com+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwjwkfL8oI_cAhUEthQKHRvDA6MQpwUIIA&biw=1920&bih=947)|
 
