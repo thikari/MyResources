@@ -31,5 +31,6 @@
 |[Lever.co](https://lever.co) | [Nodesk.co](https://nodesk.co)|
 |[Recruiterbox.com](https://recruiterbox.com) | [Smartrecruiters.com](https://.smartrecruiters.com)|
 |[Workable.com](https://workable.com)|
+|[Sportekjobs.com](https://sportekjobs.com)|
 
 [Back to table](https://github.com/Miguel-Parra-M/MyResources/blob/main/README.md)
